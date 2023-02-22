@@ -35,7 +35,7 @@
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### 🔥 &nbsp; My Status :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=satya-subham&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satya-subham&layout=compact&theme=vision-friendly-dark)](https://github.com/satya-subham/github-readme-stats)
