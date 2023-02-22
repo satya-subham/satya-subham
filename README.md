@@ -47,7 +47,7 @@ Connect with Me 🤝🏻 &nbsp;
 </h4>
 
 - Email: [satyasubham85@gmail.com](mailto:satyasubham85@gmail.com)
-- Linkedin: [satyasubham](www.linkedin.com/in/satya-subham-ba0481218)
+- Linkedin: [satyasubham](https://www.linkedin.com/in/satya-subham-ba0481218/)
 
 
 <img src="https://komarev.com/ghpvc/?username=satya-subham&style=flat-square&color=blue" alt=""/>
