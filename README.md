@@ -2,7 +2,7 @@
   <p>
   Hey there, 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm <strong>Satyasubham</strong>. I am from Odisha. I love to explore and learn new technologies. I always had a fondness for technology and     coding. I started my journey with JS, HTML, CSS, React and many other web development technologies.
+  I'm <strong>Satyasubham</strong>. I am from Odisha. I love to explore and learn new technologies. I always had a fondness for technology and     coding. I started my journey with JS, HTML, CSS, React, and many other web development technologies.
 </p>
 </div>
 
@@ -28,8 +28,8 @@
 <!-- <img alt="Typescript" src="https://img.shields.io/badge/typescript-47a9e3?style=for-the-badge&logo=typescript&logoColor=white" /> -->
 <!--   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> -->
 <!--   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> -->
-<!--   <img alt="Boot Strap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> -->
-<!-- <img alt="EJS" src="https://img.shields.io/badge/EJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" /> -->
+  <img alt="Boot Strap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img alt="EJS" src="https://img.shields.io/badge/EJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" />
 </p>
 </div>
 
