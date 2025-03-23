@@ -17,7 +17,7 @@
   <img alt="React-Router" src="https://img.shields.io/badge/ReactRouter-F05032?style=for-the-badge&logo=reactrouter&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="vuejs" src="https://img.shields.io/badge/Vuejs-F05032?style=for-the-badge&logo=vuejs&logoColor=white" />
-  <img alt="tailwind" src="https://img.shields.io/badge/Tailwind-F05032?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img alt="tailwind" src="https://img.shields.io/badge/Tailwind-1572B6?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="git-hub" src="https://img.shields.io/badge/Github-F05032?style=for-the-badge&logo=github&logoColor=white" />
