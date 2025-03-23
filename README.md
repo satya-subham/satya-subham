@@ -23,7 +23,7 @@
    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" /> 
  <img alt="Express" src="https://img.shields.io/badge/express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000" /> 
 <!--   <img alt="SQL" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> -->
-<!--   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> -->
+  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
    <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img alt="Typescript" src="https://img.shields.io/badge/typescript-47a9e3?style=for-the-badge&logo=typescript&logoColor=white" />
 <!--   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> -->
