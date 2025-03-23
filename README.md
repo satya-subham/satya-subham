@@ -16,7 +16,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="React-Router" src="https://img.shields.io/badge/ReactRouter-F05032?style=for-the-badge&logo=reactrouter&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="vue" src="https://img.shields.io/badge/Vue-F05032?style=for-the-badge&logo=vuejs&logoColor=white" />
+  <img alt="vuejs" src="https://img.shields.io/badge/Vue-F05032?style=for-the-badge&logo=vuejs&logoColor=white" />
   
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="git-hub" src="https://img.shields.io/badge/Github-F05032?style=for-the-badge&logo=github&logoColor=white" />
