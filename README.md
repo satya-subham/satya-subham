@@ -14,7 +14,7 @@
       </h3>
 </div>
 
-
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -49,6 +49,10 @@
 
 </p>
 </div>
+
+---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=satyasubham&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
