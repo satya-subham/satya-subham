@@ -1,11 +1,11 @@
 <div>
-  <p align="center">
+  <p>
   Hey there, 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm <strong>Satyasubham</strong>. I am from Odisha. I love to explore and learn new technologies. I always had a fondness for technology and     coding. I started my journey with JS, HTML, CSS, React, and many other web development technologies.
 </p>
 </div>
-
+<br/>
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
