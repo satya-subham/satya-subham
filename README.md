@@ -55,7 +55,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=satyasubham&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-
 ### 🔥 &nbsp; My Status :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=satya-subham&theme=dark&background=000000)](https://git.io/streak-stats)
 
